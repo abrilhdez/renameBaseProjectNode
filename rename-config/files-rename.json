@@ -1,0 +1,28 @@
+[
+    {
+        "Path": "\\backend\\NameProject\\NameProject\\Services\\",
+        "File": "NameProjectService.cs",
+        "Text":"NameProject"
+    },
+    {
+        "Path": "\\backend\\NameProject\\NameProject\\Services\\",
+        "File": "INameProjectServices.cs",
+        "Text":"NameProject"
+    },
+    {
+        "Path": "\\backend\\NameProject\\NameProject\\DataContext\\",
+        "File": "NameProjectContext.cs",
+        "Text":"NameProject"
+    },
+    {
+        "Path": "\\backend\\NameProject\\NameProject\\Controllers\\",
+        "File": "NameProjectController.cs",
+        "Text":"NameProject"
+
+    },
+    {
+        "Path": "\\backend\\NameProject\\",
+        "File": "NameProject.sln",
+        "Text":"NameProject"
+    }
+]
