@@ -1,110 +1,68 @@
 [
     {
         "Path": "\\backend\\NameProject\\",
-        "File": "NameProject.sln",
-        "Text": "NameProject",
-        "Num": 3
+        "File": "NameProject.sln"
     },
-    {
-        "Path": "\\backend\\NameProject\\",
-        "File": "NameProject.sln",
-        "Text": "NameProject",
-        "Num": 2
-    },
+
     {
         "Path": "\\backend\\NameProject\\NameProject\\Properties\\",
-        "File": "launchSettings.json",
-        "Text": "NameProject",
-        "Num": 1
+        "File": "launchSettings.json"
     },
     {
         "Path": "\\backend\\NameProject\\NameProject\\Controllers\\",
-        "File": "NameProjectController.cs",
-        "Text": "NameProject",
-        "Num": 6
+        "File": "NameProjectController.cs"
     },
-    {
-        "Path": "\\backend\\NameProject\\NameProject\\Controllers\\",
-        "File": "NameProjectController.cs",
-        "Text": "nameProject",
-        "Num": 5
-    },
+
     {
         "Path": "\\backend\\NameProject\\NameProject\\Dao\\DaoImpl\\",
-        "File": "BaseDAO.cs",
-        "Text": "NameProject",
-        "Num": 8
+        "File": "BaseDAO.cs"
     },
     {
         "Path": "\\backend\\NameProject\\NameProject\\Dao\\",
-        "File": "IBaseDAO.cs",
-        "Text": "NameProject",
-        "Num": 8
+        "File": "IBaseDAO.cs"
     },
     {
         "Path": "\\backend\\NameProject\\NameProject\\Dao\\",
-        "File": "IUserDAO.cs",
-        "Text": "NameProject",
-        "Num": 3
+        "File": "IUserDAO.cs"
     },
     {
         "Path": "\\backend\\NameProject\\NameProject\\DataContext\\",
-        "File": "NameProjectContext.cs",
-        "Text": "NameProject",
-        "Num": 5
+        "File": "NameProjectContext.cs"
     },
     {
         "Path": "\\backend\\NameProject\\NameProject\\Do\\",
-        "File": "CommonDO.cs",
-        "Text": "NameProject",
-        "Num": 1
+        "File": "CommonDO.cs"
     },
     {
         "Path": "\\backend\\NameProject\\NameProject\\Do\\",
-        "File": "UserDO.cs",
-        "Text": "NameProject",
-        "Num": 1
+        "File": "UserDO.cs"
     },
     {
         "Path": "\\backend\\NameProject\\NameProject\\Services\\",
-        "File": "INameProjectServices.cs",
-        "Text": "NameProject",
-        "Num": 3
+        "File": "INameProjectServices.cs"
     },
     {
         "Path": "\\backend\\NameProject\\NameProject\\Services\\",
-        "File": "NameProjectService.cs",
-        "Text": "NameProject",
-        "Num": 7
+        "File": "NameProjectService.cs"
     },
     {
         "Path": "\\backend\\NameProject\\NameProject\\To\\",
-        "File": "UserTO.cs",
-        "Text": "NameProject",
-        "Num": 1
+        "File": "UserTO.cs"
     },
     {
         "Path": "\\backend\\NameProject\\NameProject\\Utilities\\",
-        "File": "DomainProfile.cs",
-        "Text": "NameProject",
-        "Num": 3
+        "File": "DomainProfile.cs"
     },
     {
         "Path": "\\backend\\NameProject\\NameProject\\",
-        "File": "appsettings.json",
-        "Text": "NameProject",
-        "Num": 1
+        "File": "appsettings.json"
     },
     {
         "Path": "\\backend\\NameProject\\NameProject\\",
-        "File": "Program.cs",
-        "Text": "NameProject",
-        "Num": 1
+        "File": "Program.cs"
     },
     {
         "Path": "\\backend\\NameProject\\NameProject\\",
-        "File": "Startup.cs",
-        "Text": "NameProject",
-        "Num": 8
+        "File": "Startup.cs"
     }
 ]
